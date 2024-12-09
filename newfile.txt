@@ -1,1 +1,2 @@
 Just the third test of ls-files
+I just wanna test visual diff tool
